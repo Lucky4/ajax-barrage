@@ -1,2 +1,1 @@
-# ajax-barrage
-a simple ajax example called barrage
+# a simple ajax example called barrage
