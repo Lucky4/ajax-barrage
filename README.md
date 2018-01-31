@@ -1,1 +1,1 @@
-# a simple ajax example called barrage
+# A simple ajax example called barrage
