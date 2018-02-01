@@ -4,6 +4,9 @@
 - [x] 提交评论请求后，后台保存评论信息以及视频运行到的时间，响应返回评论信息并显示在屏幕上
 - [x] 视频播放后，定时发送ajax请求，获得当前播放时间的弹幕，将响应信息显示在屏幕上
 
+## 效果
+![效果](https://github.com/lucky4/barrage/raw/master/screenshot/1.gif)
+
 ## 主要代码
 
 barrage.js
